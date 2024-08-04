@@ -1,6 +1,3 @@
-# DESAFIO-BEEDOO
-Desafio Beedoo QA chalenge
-
 # Users story
 **Como** usuário **desejo** realizar o cadastro de um curso, **para que** esteja disponível na lista de cursos cadastrados na plataforma 
 **Como** usuário **desejo** visualizar os cursos **para que**  possa  verificar suas informações detalhadas 
